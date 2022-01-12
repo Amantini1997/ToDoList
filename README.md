@@ -1,2 +1,8 @@
-# TodoList
-Things I have to do, please ignore this repo
+## Cose da fare
+[ ] aiutare Jasmin;
+[ ] 
+
+## Supermercato
+[ ] lamette;
+[ ] deodorante spray;
+
