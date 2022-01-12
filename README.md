@@ -1,8 +1,8 @@
 ## Cose da fare
-[ ] aiutare Jasmin;
-[ ] 
+- [ ] aiutare Jasmin;
+- [ ] iscrizione palestra;
 
 ## Supermercato
-[ ] lamette;
-[ ] deodorante spray;
+- [ ] lamette;
+- [ ] deodorante spray;
 
